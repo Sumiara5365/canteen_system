@@ -30,7 +30,7 @@ The project was developed using **HTML, CSS, and JavaScript**, with a focus on s
 
 <div align="center">
 
-<img src="./assets/Screenshot 2026-09-03 185720.png" alt="Canteen Management System Preview" width="90%">
+<img src="./asset/photo.png" alt="Canteen Management System Preview" width="90%">
 
 </div>
 
