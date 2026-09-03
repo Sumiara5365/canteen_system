@@ -65,13 +65,9 @@ It is built using vanilla **HTML and CSS**.
    git clone https://github.com/Sumiara5365/canteen_system.git
 2.Open the project folder in VS Code.
 3. Open index.html.
-4. Run the project using Live Server or open index.html directly in your browser.
+4. Run the project using Live Server or open index.html directly in your browser. ``
 
-🔗 Live Demo & Relevant Links
-
-এবার এটা একদম সুন্দরভাবে দিতে পারো:
-
-```markdown
+```
 ## 🔗 Links
 
 - 🌐 **Live Demo:** [Canteen System](https://sumiara5365.github.io/canteen_system/)
