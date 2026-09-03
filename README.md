@@ -55,6 +55,26 @@ This project does not require any external dependencies or packages.
 
 It is built using vanilla **HTML and CSS**.
 
+## ⚙️ How to Run Locally
 
+⚙️ How to Run Locally
+
+1. Clone the repository:
+
+```bash
+   git clone https://github.com/Sumiara5365/canteen_system.git
+2.Open the project folder in VS Code.
+3. Open index.html.
+4. Run the project using Live Server or open index.html directly in your browser.
+
+🔗 Live Demo & Relevant Links
+
+এবার এটা একদম সুন্দরভাবে দিতে পারো:
+
+```markdown
+## 🔗 Links
+
+- 🌐 **Live Demo:** [Canteen System](https://sumiara5365.github.io/canteen_system/)
+- 💻 **Source Code:** [GitHub Repository](https://github.com/Sumiara5365/canteen_system)
 
 
