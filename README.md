@@ -25,3 +25,12 @@
 The **Canteen Management System** is a web-based application designed to simplify and organize daily canteen operations. It provides a simple and user-friendly interface for managing food items and orders efficiently.
 
 The project was developed using **HTML, CSS, and JavaScript**, with a focus on simplicity, usability, and efficient order management.
+
+## 📸 Project Preview
+
+<div align="center">
+
+<img src="./assets/Screenshot 2026-09-03 185720.png" alt="Canteen Management System Preview" width="90%">
+
+</div>
+
