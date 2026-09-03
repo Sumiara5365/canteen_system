@@ -40,7 +40,21 @@ The project was developed using **HTML, CSS, and JavaScript**, with a focus on s
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 
-</div>
+
+</div>## ✨ Key Features
+
+- 🍽️ View available food items
+- 🛒 Manage food orders
+- 📋 Simple and organized menu interface
+- 🖥️ User-friendly web interface
+- ⚡ Interactive functionality using JavaScript
+## 📦 Dependencies
+
+This project does not require any external dependencies or packages.
+
+It is built using vanilla **HTML and CSS**.
+
+
+
 
